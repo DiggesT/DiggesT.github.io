@@ -98,11 +98,7 @@ const config = {
             items: [
               {
                 label: 'Some socials',
-                href: 'www.google.com',
-              },
-              {
-                label: 'Some socials',
-                href: 'www.google.com',
+                href: 'https://www.google.com/?hl=RU',
               },
             ],
           },
