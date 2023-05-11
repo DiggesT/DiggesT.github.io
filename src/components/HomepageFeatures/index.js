@@ -4,15 +4,15 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Some',
+    title: 'Ratio',
     description: (
       <>
-        Feature description.
+        Open Source Business Management system.
       </>
     ),
   },
   {
-    title: 'Ratio',
+    title: 'Some',
     description: (
       <>
         Feature description.
