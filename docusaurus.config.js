@@ -12,6 +12,7 @@ const config = {
   title: 'Foldables-io',
   tagline: 'Ratio',
   favicon: 'img/favicon.ico',
+  noIndex: true,
 
   // Set the production url of your site here
   url: `https://${organizationName}.github.io`,
